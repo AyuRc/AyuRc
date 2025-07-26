@@ -1,5 +1,5 @@
 Hi there, I'm Ayush! 👋
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBqNWhjanJ6aW5qZnhwZ3U4YjZ1dGh2c2NleG1vc3pudm92eDc0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hDx804002xM/giphy.gif" width="50">
+
 
 I'm a student passionate about turning data into meaningful stories. My current focus is on Data Analysis, where I enjoy digging into datasets to uncover insights and patterns. I'm building on this foundation with the goal of diving deep into the world of Machine Learning next.
 
